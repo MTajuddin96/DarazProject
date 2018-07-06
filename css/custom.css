@@ -1,0 +1,165 @@
+body{
+	background-color: #f5f5f5;
+	line-height: 3.8;
+}
+
+img{
+	margin: 0px;
+	padding: 2px;
+	vertical-align: middle;
+
+}
+
+.navDiv{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.wholeBody{
+	padding: 0px 30px;
+
+}
+#dlogo img {
+
+}
+a{
+	margin-top: 10px;
+}
+a.navbar-brand{
+	margin-top: 0px;
+}
+.left{
+	width:20%;	
+	float: left;
+}
+.left li{
+	list-style-type: none;	
+	line-height: 30px;
+}
+.left li a{
+	text-decoration: none;
+	color: black;
+}
+.left li a:hover{
+	color: orange;
+}
+.center{
+	margin-bottom: 20px;
+	width: 20%;
+	float: left;
+}
+.right{
+	width: 15%;
+	float: right;
+}
+.gif {
+	margin-bottom: 20px;
+}
+.newBody{
+	background-color: white;
+	height: 450px;
+	
+	border-bottom: 1px solid black;
+}
+.dod li{
+	list-style-type: none;
+	display: inline-block;
+	float: left;
+
+}
+.dod ul{
+	padding-bottom: 60px;
+	padding-left: 0px;
+	margin-right: 40px;
+	margin-left: 30px;
+	padding-top: 5px;
+	border-bottom: 1px solid #5e636b;
+}
+
+#deal{
+	padding-right: 30px;
+	margin-top: 0px;
+	float: left;
+}
+#onSale{
+	line-height: 23px;
+	text-align: right;
+	padding: 0px;
+	font-size: 10pt;
+	color: orange;
+}
+li h3{
+	color: #5e636b;
+	margin-top: 10px;
+}
+span{
+	color: black;
+	padding: 0px;
+	margin-bottom: 10px;
+}
+#date{
+	margin-left: 25px;
+}
+.btn-dod{
+	color:white;
+	background-color: #ce2323;
+	margin: 10px;
+	line-height: 37px;
+	border-radius: 2px;
+	border: none;
+}
+#rt{
+	float: right;
+}
+.panel li{
+	list-style-type: none;
+	padding-left: 0px;
+	margin-left: 0px;
+}
+.panel{
+	float: left;
+	width: 16.5%;
+	height: 330px;
+	line-height: 30px;
+	font-size: 8pt;
+	
+}
+.panel ul{
+	border-right: 1px solid black;
+}
+.panel li a{
+	text-decoration: none;
+	color: #000000;
+}
+.panel li a:hover{
+	color: orange;
+}
+.col1{
+	margin-left: 10px;
+	width: 100%;
+}
+#price{
+	line-height: 0px;
+	font-size: 9pt;
+}
+b{
+	font-size: 10pt;
+}
+#was{
+	line-height: 18px;
+	font-size: 7pt;
+	padding: 0px;
+	margin: 0px;
+}
+figcaption{
+	border-bottom: 1px solid lightgrey;
+}
+#hid{
+	visibility: hidden;
+}
+.offers a {
+	text-decoration: none;
+	color: black;
+}
+.navbar-header a{
+	padding-left: 50px;
+}
